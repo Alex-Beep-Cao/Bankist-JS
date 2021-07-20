@@ -8,8 +8,8 @@ Above is the user interface
 Mian function :
 - Display each Movement
 - Caculate and display total in out and insterest 
-- Implement Sort buttom
-- Implement transfer money, request loan and close account buttom 
+- Implement Sort button
+- Implement transfer money, request loan and close account button
 - Login and basic verify  
 
 Application has 4 account objects, mainly this project is practicing array methods. In this project, using map, forEach, filter, slice, reduce , indexOf, findIndex.... methods.

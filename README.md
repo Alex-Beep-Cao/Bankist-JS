@@ -12,9 +12,9 @@ Mian function :
 - Implement transfer money, request loan and close account buttom 
 - Login and basic verify  
 
-Application has 4 account objects, mainly this project is practicing array method. In this project, using map, forEach, filter, slice, reduce , indexOf, findIndex.... methods.
+Application has 4 account objects, mainly this project is practicing array methods. In this project, using map, forEach, filter, slice, reduce , indexOf, findIndex.... methods.
 
-Also, using insertAdjacentHTML method which is very insteresting.
+Also, using insertAdjacentHTML method to generate same format html components which is very insteresting.
 
 what's Next 
 = Implement time 

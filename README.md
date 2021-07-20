@@ -10,6 +10,7 @@ Mian function :
 - Caculate and display total in out and insterest 
 - Implement Sort buttom
 - Implement transfer money, request loan and close account buttom 
+- Login and basic verify  
 
 Application has 4 account objects, mainly this project is practicing array method. In this project, using map, forEach, filter, slice, reduce , indexOf, findIndex.... methods.
 
